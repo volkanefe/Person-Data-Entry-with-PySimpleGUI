@@ -1,7 +1,11 @@
-# Person-Data-Entry-with-PySimpleGUI
+**Person-Data-Entry-with-PySimpleGUI**
 
-#Windows 
-pip install -r requirements.txt
+*After downloading the files to your computer, install the modules in the requirements.txt file with pip to install the required modules.*
 
-#Macos, Linux
-pip3 install -r requirements.txt
+**For Windows** 
+
+    pip install -r requirements.txt
+
+**For Macos, Linux**
+
+    pip3 install -r requirements.txt
